@@ -52,7 +52,7 @@ To train ViT-Large, please set `--model mae_vit_large_patch16` and `--drop_path 
 
 ## Fine-tuning
 
-Get our pre-trained checkpoints from [here](TODO).
+Get our pre-trained checkpoints from [here](ModelCard.md).
 
 To fine-tune ViT-base (recommended default) with **distributed training**, run the following on 8 GPUs:
 ```
