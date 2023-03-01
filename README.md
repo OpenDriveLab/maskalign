@@ -1,11 +1,11 @@
-# MaskAlign
+# MaskAlign (CVPR 2023)
 
 <p align="center">
 <img src="figs/framework.png" alt="statistics" width="80%"/>
 </p>
 
 
-This is the official PyTorch repository for paper [Stare at What You See: Masked Image Modeling without Reconstruction](https://arxiv.org/abs/2211.08887):
+This is the official PyTorch repository for CVPR 2023 paper [Stare at What You See: Masked Image Modeling without Reconstruction](https://arxiv.org/abs/2211.08887):
 ```
 @article{xue2022stare,
   title={Stare at What You See: Masked Image Modeling without Reconstruction},
